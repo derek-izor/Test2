@@ -1,0 +1,9 @@
+within your master file
+$git add nameoffile.txt
+$git status
+
+$git commit -m "add a comment here"
+
+$git push
+
+$git status
